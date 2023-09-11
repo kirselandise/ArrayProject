@@ -21,6 +21,9 @@ Assumptions:
 - I assume that "checkEntry" only identifies the first instance of an entry, not any duplicates
 - To make is easier for general users, rows and columns start at 1 instead of 0 when answering or prompting the user
 - The exceptions for adding or modifying an entry identify whether or not the entry was an integer. I am assuming we do not need more exceptions than what was requested in the assignment
+<img width="478" alt="OutputOne" src="https://github.com/kirselandise/ArrayProject/assets/83589688/78fcfc6e-24b1-41bc-9afd-503ac350edd8">
 
 Output Images: 
+<img width="481" alt="OutputTwo" src="https://github.com/kirselandise/ArrayProject/assets/83589688/a26bdc36-d502-4a57-8aec-43b3dbf949f2">
+
 
